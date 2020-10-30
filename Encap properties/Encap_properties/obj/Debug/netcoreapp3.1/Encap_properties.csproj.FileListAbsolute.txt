@@ -1,0 +1,13 @@
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Encap_propertiesX\Encap_properties\bin\Debug\netcoreapp3.1\Encap_properties.exe
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Encap_propertiesX\Encap_properties\bin\Debug\netcoreapp3.1\Encap_properties.deps.json
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Encap_propertiesX\Encap_properties\bin\Debug\netcoreapp3.1\Encap_properties.runtimeconfig.json
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Encap_propertiesX\Encap_properties\bin\Debug\netcoreapp3.1\Encap_properties.runtimeconfig.dev.json
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Encap_propertiesX\Encap_properties\bin\Debug\netcoreapp3.1\Encap_properties.dll
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Encap_propertiesX\Encap_properties\bin\Debug\netcoreapp3.1\Encap_properties.pdb
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Encap_propertiesX\Encap_properties\obj\Debug\netcoreapp3.1\Encap_properties.csprojAssemblyReference.cache
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Encap_propertiesX\Encap_properties\obj\Debug\netcoreapp3.1\Encap_properties.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Encap_propertiesX\Encap_properties\obj\Debug\netcoreapp3.1\Encap_properties.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Encap_propertiesX\Encap_properties\obj\Debug\netcoreapp3.1\Encap_properties.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Encap_propertiesX\Encap_properties\obj\Debug\netcoreapp3.1\Encap_properties.dll
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Encap_propertiesX\Encap_properties\obj\Debug\netcoreapp3.1\Encap_properties.pdb
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Encap_propertiesX\Encap_properties\obj\Debug\netcoreapp3.1\Encap_properties.genruntimeconfig.cache

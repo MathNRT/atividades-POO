@@ -1,0 +1,13 @@
+D:\Arquivos\FACENS\2 Semestre\POO\Exerc_Array-Classe\Exerc_Array-Classe\bin\Debug\netcoreapp3.1\Exerc_Array-Classe.exe
+D:\Arquivos\FACENS\2 Semestre\POO\Exerc_Array-Classe\Exerc_Array-Classe\bin\Debug\netcoreapp3.1\Exerc_Array-Classe.deps.json
+D:\Arquivos\FACENS\2 Semestre\POO\Exerc_Array-Classe\Exerc_Array-Classe\bin\Debug\netcoreapp3.1\Exerc_Array-Classe.runtimeconfig.json
+D:\Arquivos\FACENS\2 Semestre\POO\Exerc_Array-Classe\Exerc_Array-Classe\bin\Debug\netcoreapp3.1\Exerc_Array-Classe.runtimeconfig.dev.json
+D:\Arquivos\FACENS\2 Semestre\POO\Exerc_Array-Classe\Exerc_Array-Classe\bin\Debug\netcoreapp3.1\Exerc_Array-Classe.dll
+D:\Arquivos\FACENS\2 Semestre\POO\Exerc_Array-Classe\Exerc_Array-Classe\bin\Debug\netcoreapp3.1\Exerc_Array-Classe.pdb
+D:\Arquivos\FACENS\2 Semestre\POO\Exerc_Array-Classe\Exerc_Array-Classe\obj\Debug\netcoreapp3.1\Exerc_Array-Classe.csprojAssemblyReference.cache
+D:\Arquivos\FACENS\2 Semestre\POO\Exerc_Array-Classe\Exerc_Array-Classe\obj\Debug\netcoreapp3.1\Exerc_Array-Classe.AssemblyInfoInputs.cache
+D:\Arquivos\FACENS\2 Semestre\POO\Exerc_Array-Classe\Exerc_Array-Classe\obj\Debug\netcoreapp3.1\Exerc_Array-Classe.AssemblyInfo.cs
+D:\Arquivos\FACENS\2 Semestre\POO\Exerc_Array-Classe\Exerc_Array-Classe\obj\Debug\netcoreapp3.1\Exerc_Array-Classe.csproj.CoreCompileInputs.cache
+D:\Arquivos\FACENS\2 Semestre\POO\Exerc_Array-Classe\Exerc_Array-Classe\obj\Debug\netcoreapp3.1\Exerc_Array-Classe.dll
+D:\Arquivos\FACENS\2 Semestre\POO\Exerc_Array-Classe\Exerc_Array-Classe\obj\Debug\netcoreapp3.1\Exerc_Array-Classe.pdb
+D:\Arquivos\FACENS\2 Semestre\POO\Exerc_Array-Classe\Exerc_Array-Classe\obj\Debug\netcoreapp3.1\Exerc_Array-Classe.genruntimeconfig.cache

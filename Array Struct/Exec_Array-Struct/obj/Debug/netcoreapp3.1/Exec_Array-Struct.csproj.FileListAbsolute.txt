@@ -1,0 +1,26 @@
+D:\Arquivos\FACENS\2 Semestre\POO\Exec_Array-Struct\Exec_Array-Struct\bin\Debug\netcoreapp3.1\Exec_Array-Struct.exe
+D:\Arquivos\FACENS\2 Semestre\POO\Exec_Array-Struct\Exec_Array-Struct\bin\Debug\netcoreapp3.1\Exec_Array-Struct.deps.json
+D:\Arquivos\FACENS\2 Semestre\POO\Exec_Array-Struct\Exec_Array-Struct\bin\Debug\netcoreapp3.1\Exec_Array-Struct.runtimeconfig.json
+D:\Arquivos\FACENS\2 Semestre\POO\Exec_Array-Struct\Exec_Array-Struct\bin\Debug\netcoreapp3.1\Exec_Array-Struct.runtimeconfig.dev.json
+D:\Arquivos\FACENS\2 Semestre\POO\Exec_Array-Struct\Exec_Array-Struct\bin\Debug\netcoreapp3.1\Exec_Array-Struct.dll
+D:\Arquivos\FACENS\2 Semestre\POO\Exec_Array-Struct\Exec_Array-Struct\bin\Debug\netcoreapp3.1\Exec_Array-Struct.pdb
+D:\Arquivos\FACENS\2 Semestre\POO\Exec_Array-Struct\Exec_Array-Struct\obj\Debug\netcoreapp3.1\Exec_Array-Struct.csprojAssemblyReference.cache
+D:\Arquivos\FACENS\2 Semestre\POO\Exec_Array-Struct\Exec_Array-Struct\obj\Debug\netcoreapp3.1\Exec_Array-Struct.AssemblyInfoInputs.cache
+D:\Arquivos\FACENS\2 Semestre\POO\Exec_Array-Struct\Exec_Array-Struct\obj\Debug\netcoreapp3.1\Exec_Array-Struct.AssemblyInfo.cs
+D:\Arquivos\FACENS\2 Semestre\POO\Exec_Array-Struct\Exec_Array-Struct\obj\Debug\netcoreapp3.1\Exec_Array-Struct.csproj.CoreCompileInputs.cache
+D:\Arquivos\FACENS\2 Semestre\POO\Exec_Array-Struct\Exec_Array-Struct\obj\Debug\netcoreapp3.1\Exec_Array-Struct.dll
+D:\Arquivos\FACENS\2 Semestre\POO\Exec_Array-Struct\Exec_Array-Struct\obj\Debug\netcoreapp3.1\Exec_Array-Struct.pdb
+D:\Arquivos\FACENS\2 Semestre\POO\Exec_Array-Struct\Exec_Array-Struct\obj\Debug\netcoreapp3.1\Exec_Array-Struct.genruntimeconfig.cache
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Exec_Array-Struct\Exec_Array-Struct\bin\Debug\netcoreapp3.1\Exec_Array-Struct.exe
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Exec_Array-Struct\Exec_Array-Struct\bin\Debug\netcoreapp3.1\Exec_Array-Struct.deps.json
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Exec_Array-Struct\Exec_Array-Struct\bin\Debug\netcoreapp3.1\Exec_Array-Struct.runtimeconfig.json
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Exec_Array-Struct\Exec_Array-Struct\bin\Debug\netcoreapp3.1\Exec_Array-Struct.runtimeconfig.dev.json
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Exec_Array-Struct\Exec_Array-Struct\bin\Debug\netcoreapp3.1\Exec_Array-Struct.dll
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Exec_Array-Struct\Exec_Array-Struct\bin\Debug\netcoreapp3.1\Exec_Array-Struct.pdb
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Exec_Array-Struct\Exec_Array-Struct\obj\Debug\netcoreapp3.1\Exec_Array-Struct.csprojAssemblyReference.cache
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Exec_Array-Struct\Exec_Array-Struct\obj\Debug\netcoreapp3.1\Exec_Array-Struct.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Exec_Array-Struct\Exec_Array-Struct\obj\Debug\netcoreapp3.1\Exec_Array-Struct.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Exec_Array-Struct\Exec_Array-Struct\obj\Debug\netcoreapp3.1\Exec_Array-Struct.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Exec_Array-Struct\Exec_Array-Struct\obj\Debug\netcoreapp3.1\Exec_Array-Struct.dll
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Exec_Array-Struct\Exec_Array-Struct\obj\Debug\netcoreapp3.1\Exec_Array-Struct.pdb
+C:\Users\mathe\Desktop\Tarefas_POO-2--main\Exec_Array-Struct\Exec_Array-Struct\obj\Debug\netcoreapp3.1\Exec_Array-Struct.genruntimeconfig.cache
