@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "atividade 26_10  listas/1.0.0": {
+        "runtime": {
+          "atividade 26_10  listas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "atividade 26_10  listas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

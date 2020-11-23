@@ -1,0 +1,13 @@
+D:\faculdade\unity\codigos do visual studio\atividade 26_10 listas\atividade 26_10  listas\atividade 26_10  listas\bin\Debug\netcoreapp3.1\atividade 26_10  listas.exe
+D:\faculdade\unity\codigos do visual studio\atividade 26_10 listas\atividade 26_10  listas\atividade 26_10  listas\bin\Debug\netcoreapp3.1\atividade 26_10  listas.deps.json
+D:\faculdade\unity\codigos do visual studio\atividade 26_10 listas\atividade 26_10  listas\atividade 26_10  listas\bin\Debug\netcoreapp3.1\atividade 26_10  listas.runtimeconfig.json
+D:\faculdade\unity\codigos do visual studio\atividade 26_10 listas\atividade 26_10  listas\atividade 26_10  listas\bin\Debug\netcoreapp3.1\atividade 26_10  listas.runtimeconfig.dev.json
+D:\faculdade\unity\codigos do visual studio\atividade 26_10 listas\atividade 26_10  listas\atividade 26_10  listas\bin\Debug\netcoreapp3.1\atividade 26_10  listas.dll
+D:\faculdade\unity\codigos do visual studio\atividade 26_10 listas\atividade 26_10  listas\atividade 26_10  listas\bin\Debug\netcoreapp3.1\atividade 26_10  listas.pdb
+D:\faculdade\unity\codigos do visual studio\atividade 26_10 listas\atividade 26_10  listas\atividade 26_10  listas\obj\Debug\netcoreapp3.1\atividade 26_10  listas.csprojAssemblyReference.cache
+D:\faculdade\unity\codigos do visual studio\atividade 26_10 listas\atividade 26_10  listas\atividade 26_10  listas\obj\Debug\netcoreapp3.1\atividade 26_10  listas.AssemblyInfoInputs.cache
+D:\faculdade\unity\codigos do visual studio\atividade 26_10 listas\atividade 26_10  listas\atividade 26_10  listas\obj\Debug\netcoreapp3.1\atividade 26_10  listas.AssemblyInfo.cs
+D:\faculdade\unity\codigos do visual studio\atividade 26_10 listas\atividade 26_10  listas\atividade 26_10  listas\obj\Debug\netcoreapp3.1\atividade 26_10  listas.csproj.CoreCompileInputs.cache
+D:\faculdade\unity\codigos do visual studio\atividade 26_10 listas\atividade 26_10  listas\atividade 26_10  listas\obj\Debug\netcoreapp3.1\atividade 26_10  listas.dll
+D:\faculdade\unity\codigos do visual studio\atividade 26_10 listas\atividade 26_10  listas\atividade 26_10  listas\obj\Debug\netcoreapp3.1\atividade 26_10  listas.pdb
+D:\faculdade\unity\codigos do visual studio\atividade 26_10 listas\atividade 26_10  listas\atividade 26_10  listas\obj\Debug\netcoreapp3.1\atividade 26_10  listas.genruntimeconfig.cache
